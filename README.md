@@ -54,7 +54,7 @@
     <section>
         <h2>Projetos</h2>
         <ul>
-            <li><a href="link_projeto1">Análise de Dados com Power BI</a></li>
+            <li><a href="link_projeto1">Análise de dados com Power BI</a></li>
             <li><a href="link_projeto2">Visualizações interativas com Seaborn</a></li>
         </ul>
     </section>
