@@ -1,67 +1,32 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfólio - Leonardo Souza</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-            line-height: 1.6;
-        }
-        h1 {
-            background-color: #0077cc;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
-        section {
-            margin: 20px;
-            padding: 20px;
-            background: #fff;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        }
-        h2 {
-            color: #0077cc;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        ul li {
-            margin-bottom: 10px;
-        }
-        ul li a {
-            text-decoration: none;
-            color: #0077cc;
-        }
-        ul li a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <h1>Bem-vindo ao meu Portfólio!</h1>
-    <section>
-        <h2>Sobre Mim</h2>
-        <p>Sou Leonardo, analista de dados em formação, com foco em Power BI, Excel e visualização de dados.</p>
-    </section>
-    <section>
-        <h2>Projetos</h2>
-        <ul>
-            <li><a href="link_projeto1">Análise de dados com Power BI</a></li>
-            <li><a href="link_projeto2">Visualizações interativas com Seaborn</a></li>
-        </ul>
-    </section>
-    <section>
-        <h2>Contato</h2>
-        <p>E-mail: leonardo.silva@email.com</p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/leonardo-s-957086256" target="_blank">Perfil no LinkedIn</a></p>
-    </section>
-</body>
-</html>
+# Portfólio - Leonardo Souza
+
+Bem-vindo ao meu portfólio! Sou Leonardo Souza, analista de dados em formação, com foco em Power BI, Excel e visualização de dados.
+
+## Projetos
+
+Aqui estão alguns dos meus projetos em análise de dados:
+
+- [Análise de dados com Power BI](https://link_para_projeto1)
+- [Visualizações interativas com Seaborn](https://link_para_projeto2)
+
+## Sobre Mim
+
+- **Nome**: Leonardo Souza
+- **Ocupação**: Analista de Dados em Formação
+- **Habilidades**: Power BI, Excel, Python (Seaborn), SQL
+- **E-mail**: leonardo.silva@email.com
+- **LinkedIn**: [Perfil no LinkedIn](https://linkedin.com/in/leonardo-s-957086256)
+
+## GitHub Pages
+
+Você pode visualizar meu portfólio online no seguinte link:
+
+[Visite meu portfólio](https://seu-usuario.github.io/seu-repositorio)
+
+## Como Rodar o Projeto
+
+Caso queira rodar este projeto localmente, siga os passos abaixo:
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
