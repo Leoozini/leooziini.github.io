@@ -14,7 +14,7 @@ Aqui estão alguns dos meus projetos em análise de dados:
 - **Nome**: Leonardo Souza
 - **Ocupação**: Analista de Dados em Formação
 - **Habilidades**: Power BI, Excel, Python (Seaborn), SQL
-- **E-mail**: leonardo.silva@email.com
+- **E-mail**: contatoleonardo133@gmail.com
 - **LinkedIn**: [Perfil no LinkedIn](https://linkedin.com/in/leonardo-s-957086256)
 
 ## GitHub Pages
