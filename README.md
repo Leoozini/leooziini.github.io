@@ -1,6 +1,6 @@
 # Portfólio - Leonardo Souza
 
-Bem-vindo ao meu portfólio! Sou Leonardo Souza, analista de dados em formação, com foco em Power BI, Excel e visualização de dados.
+Bem-vindo ao meu portfólio! Sou Leonardo Souza, analista de dados em formação, com foco em Power BI, Excel e visualização de dados. Ainda estou incrementando esse local.
 
 ## Projetos
 
